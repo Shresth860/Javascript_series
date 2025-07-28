@@ -19,4 +19,4 @@ accountPassword = "5646"
 // console.log(accountMail)
 // console.log(accountPassword)
 
-console.table([accountId, accountMail, accountPassword]);
+console.table([accountId, accountMail, accountPassword]); // it will show data in tabular format
